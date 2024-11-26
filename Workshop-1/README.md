@@ -1,2 +1,2 @@
 # C
- Workshops of Numerical Methods and Concurrency
+ Workshop1 of Numerical Methods and Concurrency
